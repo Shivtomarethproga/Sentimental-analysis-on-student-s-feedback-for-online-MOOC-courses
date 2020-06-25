@@ -1,0 +1,2 @@
+# Sentimental-analysis-on-student-s-feedback-for-online-MOOC-courses
+In this project I have taken a huge dataset from online repositories. This dataset contains the feedback reviews of students who have taken the courses.After taking we have first processed the data like cleaning , removing spaces etc. And then with the help of ML algos we have predicted whether review is positive or negative with efficiency.
